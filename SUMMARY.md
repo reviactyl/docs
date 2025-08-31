@@ -8,4 +8,5 @@
 
 ## Information
 
+* [Troubleshooting](information/troubleshooting.md)
 * [Frequently Asked Questions](information/faq.md)
