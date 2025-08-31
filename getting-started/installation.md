@@ -39,6 +39,7 @@ Extract `reviactyl.zip` to **root** directory of pterodactyl (Ex; /var/www/ptero
 cd /var/www/pterodactyl
 chmod +x install.sh
 ./install.sh
+php artisan view:clear
 ```
 
 Our Script automatically installs Revix to your system. If there are any problems, kindly join [our discord server](https://discord.gg/ZrRsNKK94R).
