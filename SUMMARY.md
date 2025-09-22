@@ -10,3 +10,7 @@
 
 * [Troubleshooting](information/troubleshooting.md)
 * [Frequently Asked Questions](information/faq.md)
+
+## Customization
+
+* [Routes](customization/routes.md)
