@@ -14,3 +14,4 @@
 ## Customization
 
 * [Routes](customization/routes.md)
+* [Translation](customization/translation.md)
