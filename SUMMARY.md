@@ -1,10 +1,14 @@
 # Table of contents
 
-* [Welcome](README.md)
+## Reviactyl <a href="#project" id="project"></a>
 
-## Getting Started
+* [Introduction](README.md)
+* [About](project/about.md)
 
-* [Installation](getting-started/installation.md)
+## Panel Installation <a href="#installation" id="installation"></a>
+
+* [Getting Started](installation/getting-started.md)
+* [Migrating From Pterodactyl](installation/migrating-from-pterodactyl.md)
 
 ## Information
 
