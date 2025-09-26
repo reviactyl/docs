@@ -7,7 +7,8 @@
 
 ## Panel Installation <a href="#installation" id="installation"></a>
 
-* [Getting Started](installation/getting-started.md)
+* [Getting Started](installation/getting-started/README.md)
+  * [Webserver Configuration](installation/getting-started/webserver-configuration.md)
 * [Migrating From Pterodactyl](installation/migrating-from-pterodactyl.md)
 
 ## Information
